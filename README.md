@@ -48,6 +48,11 @@
   </a>
 </div>
 
+## 📅 Hobbies
+- Solve programming problems at Codeforces,LeetCode
+- Play games
+- etc...
+
 
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
