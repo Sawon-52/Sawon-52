@@ -34,9 +34,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
+
 <h3 align="left">Social media</h3>
-
-
 <div align="left">
   <a href="https://www.linkedin.com/in/mehedi-hasan-9417061a5/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="40" alt="linkedin logo"  />
@@ -48,6 +47,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="40" alt="gmail logo"  />
   </a>
 </div>
+
 
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
