@@ -57,7 +57,7 @@
     </p>
 </details>
 
-<p align="right">
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=Sawon-52&style=plastic&label=Views"><img>
 <img src="https://badges.pufler.dev/visits/Sawon-52/Sawon-52?color=black&logo=github" />
 </p>
