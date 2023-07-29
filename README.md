@@ -20,7 +20,10 @@ I'm enthusiastic and curious web developer learner. Ever since I stumbled upon t
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS_ZSJLXJYoX4zQOH9YL_6R1wXSPArKxnMKQ&usqp=CAU" title="Tailwind Css" alt="Tailwind Css" width="40" 
+   height="40"/>
+  <img src="https://res.cloudinary.com/dynrld3nm/image/upload/v1657914796/guntxjakka.me/techstack/daisyui_hvjkhf.png" title="Daisy UI"  alt="Deisy UI" width="40" 
+   height="40"/>
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="10" />
