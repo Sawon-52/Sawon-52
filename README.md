@@ -180,13 +180,14 @@ I'm enthusiastic and curious web developer learner. Ever since I stumbled upon t
 ## :handshake: Let's Connect
 <div align="left">
   <a href="https://www.linkedin.com/in/mehedi-hasan-9417061a5/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"alt="linkedin logo" />
   </a>
+  
   <a href="https://www.facebook.com/mehedi.hassansawon.1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="30" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="facebook logo"  />
   </a>
   <a href="mehedihasansawon.52@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="gmail logo"  />
   </a>
 </div>
 
