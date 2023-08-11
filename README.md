@@ -193,15 +193,9 @@ I'm enthusiastic and curious web developer learner. Ever since I stumbled upon t
 <details >
   <summary><h2>:gear:&nbsp;GitHub Statistics</h2></summary>
   <br/>
-    <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sawon-52&hide_border=true&theme=nightowl" />
-    </p>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Sawon- 
-        52&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sawon- 
-        52&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-    </p>
+    <p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sawon-52&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
+
+  <p align="center"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Sawon-52&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
 </details>
 
 <p align="center">
