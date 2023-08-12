@@ -201,7 +201,6 @@ I'm enthusiastic and curious web developer learner. Ever since I stumbled upon t
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Sawon-52&style=plastic&label=Views"><img>
-
 </p>
 
 
