@@ -9,27 +9,7 @@ I'm enthusiastic and curious web developer learner. Ever since I stumbled upon t
 ## :computer: Technologies I Love
 * Frontend and Backend Web Development
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Competitive Programming</b>
-<br>
 
-<p align="left"> 
-  <a href="https://www.hackerrank.com/mehedihasansawo1" target="_blank"> 
-    <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.codechef.com/users/mhasan_1" target="_blank">
-   <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white">
-  </a>
-  
-  <a href="https://codeforces.com/profile/MH_1" target="_blank">
-    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white">
-  </a> 
-  
-  
-  <a href="https://leetcode.com/MH_1/" target="_blank"> 
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=d16c06"/>
-  </a>
-</p>
 
 
 <br>
@@ -47,10 +27,6 @@ I'm enthusiastic and curious web developer learner. Ever since I stumbled upon t
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
   </a> 
-
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white">
-  </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
