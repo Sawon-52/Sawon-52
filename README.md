@@ -1,5 +1,5 @@
 <h1>Hi, I'm Mehedi Hasan <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-I'm enthusiastic and curious web developer learner. Ever since I stumbled upon the mesmerizing world of web development, I've been captivated by the endless possibilities of creating digital experiences that engage and delight users.
+I am a recent graduate in Computer Science and Engineering from Varendra University, Rajshahi, Bangladesh, with a strong passion for web development. Currently focused on enhancing my skills in frontend technologies, I have a particular affinity for JavaScript. I am dedicated to solving complex problems and continuously learning new aspects of programming. As I embark on my professional journey, I am eager to apply my knowledge and creativity to impactful projects and aspire to grow into a highly skilled and innovative programmer in the tech industry.
 
 * 🔭 I’m currently working My University Project
 * 🌱 I’m currently learning JavaScript ☕
