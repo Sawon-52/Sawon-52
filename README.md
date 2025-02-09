@@ -1,14 +1,14 @@
 <h1>Hi, I'm Mehedi Hasan <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 A passionate Computer Science graduate with expertise in the MERN stack, dedicated to building innovative, user-centered web applications. Skilled in problem-solving and committed to continuous learning, I aim to contribute to impactful projects that drive growth and create value in the tech industry.
 
+<br>
+<br>
+
+
 * 🔭 I’m currently working My University Project
 * 🌱 I’m currently learning JavaScript ☕
 * 💬 Ask me about Web Development
-* 📙 Check out my [Resume](https://www.linkedin.com/in/mehedi-hasan-9417061a5/)
-
-## :computer: Technologies I Love
-* Frontend and Backend Web Development
-
+* 📙 Check out my [Resume](https://docs.google.com/document/d/1ApOhsj2EN1YyXrT9slnZxGCuTxikXO9fr-hhb1xx5XY/edit?usp=sharing)
 
 
 
