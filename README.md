@@ -4,12 +4,10 @@ A passionate Computer Science graduate with expertise in the MERN stack, dedicat
 <br>
 <br>
 
-
-* 🔭 I’m currently working My University Project
-* 🌱 I’m currently learning JavaScript ☕
-* 💬 Ask me about Web Development
-* 📙 Check out my [Resume](https://docs.google.com/document/d/1ApOhsj2EN1YyXrT9slnZxGCuTxikXO9fr-hhb1xx5XY/edit?usp=sharing)
-
+* 🌍  I'm based in Dhaka, Bangladesh
+* 🖥️  See my portfolio at [Portfolio](https://my-portfolio-gray-ten-39.vercel.app/)
+* ✉️  You can contact me at [mehedihasan.contact1@gmail.com](mailto:mehedihasan.contact1@gmail.com)
+* 🚀  I'm currently working on [Full-Stack E-commerce website](https://baskify-e-commerce-platform-wu0y.onrender.com/)
 
 
 <br>
