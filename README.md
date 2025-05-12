@@ -8,9 +8,15 @@ A passionate Computer Science graduate with expertise in the MERN stack, dedicat
 * 🖥️  See my portfolio at [Portfolio](https://my-portfolio-gray-ten-39.vercel.app/)
 * ✉️  You can contact me at [mehedihasan.contact1@gmail.com](mailto:mehedihasan.contact1@gmail.com)
 * 🚀  I'm currently working on [Tutorly - A live tutor system](https://github.com/Sawon-52/Tutorly--Live-Tutor-System)
+  
+## 🚀 Key Projects
+
+| Project           | Description                              | Link                                                           |
+| ----------------- | ---------------------------------------- | -------------------------------------------------------------- |
+| Baskify   | Baskify – A MERN stack eCommerce app featuring a responsive design, secure authentication, and seamless cart functionality. Built with MongoDB, Express, React, and Node.js for a modern, full-stack shopping experience. | [Repository](https://github.com/Sawon-52/Baskify-E-Commerce-platform) |
+| ideaBolt   | A lightweight and dynamic blog platform built with HTML, Tailwind CSS, PHP, and MySQL. IdeaBolt is designed to inspire creativity and share ideas effortlessly. It features a clean, responsive design and a robust backend for seamless content management. Perfect for writers and readers to connect and explore fresh perspectives. | [Repository](https://github.com/Sawon-52/IdeaBolt) |
 
 
-<br>
 
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -42,6 +48,15 @@ A passionate Computer Science graduate with expertise in the MERN stack, dedicat
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Sawon-52&style=plastic&label=Views"><img>
 </p>
+
+
+
+
+
+
+
+
+
 
 
 
